@@ -54,7 +54,7 @@ This project conducts an in-depth analysis of French investment funds using adva
    ```bash
    pip install -r requirements.txt
    ```
-4. Set up your Google Gemini API credentials (refer to the [Google Gemini API documentation](https://developers.google.com/gemini) for detailed instructions).
+4. Set up your Google Gemini API credentials (refer to the [Google Gemini API documentation](https://ai.google.dev/gemini-api/docs?hl=tr) for detailed instructions).
 5. Start Jupyter Notebook:
    ```bash
    jupyter notebook
