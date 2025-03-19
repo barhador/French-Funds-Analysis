@@ -1,0 +1,14 @@
+numpy==1.23.*
+requests==2.28.*
+beautifulsoup4==4.11.*
+pandas==1.5.*
+matplotlib==3.7.*
+seaborn==0.12.*
+plotly==5.10.*
+scikit-learn==1.2.*
+google-generativeai
+ipython==8.12.*
+langchain==0.0.128
+notebook==6.5.*
+openai==0.27.2
+python-dotenv==1.0.*
